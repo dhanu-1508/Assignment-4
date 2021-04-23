@@ -1,0 +1,16 @@
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\bin\Debug\net5.0\WinDataRelation.exe
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\bin\Debug\net5.0\WinDataRelation.deps.json
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\bin\Debug\net5.0\WinDataRelation.runtimeconfig.json
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\bin\Debug\net5.0\WinDataRelation.runtimeconfig.dev.json
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\bin\Debug\net5.0\WinDataRelation.dll
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\bin\Debug\net5.0\ref\WinDataRelation.dll
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\bin\Debug\net5.0\WinDataRelation.pdb
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\obj\Debug\net5.0\WinDataRelation.csprojAssemblyReference.cache
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\obj\Debug\net5.0\WinDataRelation.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\obj\Debug\net5.0\WinDataRelation.AssemblyInfoInputs.cache
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\obj\Debug\net5.0\WinDataRelation.AssemblyInfo.cs
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\obj\Debug\net5.0\WinDataRelation.csproj.CoreCompileInputs.cache
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\obj\Debug\net5.0\WinDataRelation.dll
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\obj\Debug\net5.0\ref\WinDataRelation.dll
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\obj\Debug\net5.0\WinDataRelation.pdb
+F:\C# assignments\Assignment datagridview\WinDataRelation\WinDataRelation\obj\Debug\net5.0\WinDataRelation.genruntimeconfig.cache
